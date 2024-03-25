@@ -127,7 +127,7 @@ install_marzban_script() {
 
 install_marzban() {
     # Fetch releases
-    FILES_URL_PREFIX="https://raw.githubusercontent.com/Gozargah/Marzban/next"
+    FILES_URL_PREFIX="https://raw.githubusercontent.com/Gozargah/Marzban/dev"
 
     mkdir -p "$DATA_DIR"
     mkdir -p "$APP_DIR"
