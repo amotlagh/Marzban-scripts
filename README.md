@@ -1,7 +1,7 @@
 # Marzban-scripts
 Scripts for Marzban
 
-## Install
+## Install marzban dev branch
 Install Marzban on your server using this command
 ```bash
 sudo bash -c "$(curl -sL https://github.com/amotlagh/Marzban-scripts/raw/master/marzban.sh)" @ install
