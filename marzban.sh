@@ -127,8 +127,7 @@ install_marzban_script() {
 
 install_marzban() {
     # Fetch releases
-    # FILES_URL_PREFIX="https://raw.githubusercontent.com/Gozargah/Marzban/dev"
-    FILES_URL_PREFIX="https://raw.githubusercontent.com/AC-Lover/Marzban/grpc-multiMode"
+    FILES_URL_PREFIX="https://raw.githubusercontent.com/amotlagh/Marzban/master"
 
     mkdir -p "$DATA_DIR"
     mkdir -p "$APP_DIR"
